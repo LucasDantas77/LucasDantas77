@@ -1,6 +1,6 @@
 ### Hello, I'm Lucas Dantas 👋
 - 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning Back-End
+- 🌱 but I also have Back-end skills
 - 📫  How to reach me: https://www.linkedin.com/in/lucas-dantas-761a9723b/
 ##
 <picture>
